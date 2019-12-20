@@ -1,0 +1,13 @@
+sample/left/left01.jpg
+sample/left/left02.jpg
+sample/left/left03.jpg
+sample/left/left04.jpg
+sample/left/left05.jpg
+sample/left/left06.jpg
+sample/left/left07.jpg
+sample/left/left08.jpg
+sample/left/left09.jpg
+sample/left/left11.jpg
+sample/left/left12.jpg
+sample/left/left13.jpg
+sample/left/left14.jpg
